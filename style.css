@@ -1,0 +1,9 @@
+body{
+    background-color: beige;
+}
+
+canvas{ 
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
